@@ -5,10 +5,10 @@ Make Use of it.🚀
 
 # Project Detials 
 
-<h4>npm init</h4>
+<h4 style:"text-decoration:underline">npm init</h4>
 To Install the Initilize the package.json
 
-<h4>yarn add axios firebase styled components react-icons react-redux @reduxjs/toolkit react-router-dom </h4>
+<h4 style:"text-decoration:underline">yarn add axios firebase styled components react-icons react-redux @reduxjs/toolkit react-router-dom </h4>
 To add the required packages
 
 
